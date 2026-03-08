@@ -31,9 +31,7 @@ I am a 3rd-year CS student specializing in Artificial Intelligence and Machine L
 ---
 
 ### 📈 GitHub Stats
-<div align="center">
-[![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1himanshu1804442&show_icons=true&theme=tokyonight)]   (https://github.com/1himanshu1804442)
-</div>
+
 
 ---
 
