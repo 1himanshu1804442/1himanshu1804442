@@ -1,7 +1,7 @@
 # Hi there, I'm Himanshu Yadav 👋
 
 <div align="center">
-  <img src="https://via.placeholder.com/150" alt="Profile Image" width="150" style="border-radius:50%"/>
+  <img src="https://github.com/1himanshu1804442.png" alt="Himanshu's Profile Image" width="150" style="border-radius:50%"/>
 </div>
 
 ### 🚀 Computer Science & AIML Student | Aspiring Software Engineer
@@ -32,16 +32,14 @@ I am a 3rd-year CS student specializing in Artificial Intelligence and Machine L
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dusty1804&show_icons=true&theme=tokyonight" alt="dusty1804's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1himanshu1804442&show_icons=true&theme=tokyonight" alt="Himanshu's GitHub stats" />
 </div>
-
 
 ---
 
 
 ### 📫 Let's Connect!
-* **LinkedIn:** [www.linkedin.com/in/himanshu1804]
-* **Portfolio:** []
-* **LeetCode:** [https://leetcode.com/u/hy180444/]
+* **LinkedIn:** [Himanshu Yadav](https://www.linkedin.com/in/himanshu1804)
+* **LeetCode:** [hy180444](https://leetcode.com/u/hy180444/)
 
 _"Always building, always learning."_
