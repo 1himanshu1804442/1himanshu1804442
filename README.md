@@ -21,11 +21,11 @@ I am a 3rd-year CS student specializing in Artificial Intelligence and Machine L
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects (By Complexity)
 
 - 💪 **[FitTrack AI](https://github.com/1himanshu1804442/fittrack-ai-frontend)**: A full-stack AI-powered fitness tracking platform. Built with a decoupled architecture featuring a dedicated backend (`fittrack-ai-backend`) and a dynamic frontend (`fittrack-ai-frontend`), utilizing modern web technologies to deliver personalized fitness insights.
-- 🛡️ **[De-slop-Linkedin](https://github.com/1himanshu1804442/De-slop-Linkedin)**: A browser Chrome extension designed to algorithmically clean up and improve the user experience on the LinkedIn feed, filtering out "slop" content for higher productivity.
 - 🌤️ **[Weather Insight App](https://github.com/1himanshu1804442/weather-insight-app)**: A dynamic, responsive web application utilizing Vanilla JavaScript, HTML, and CSS. Integrates the OpenWeatherMap API using modern asynchronous JavaScript (`async` / `await`, `fetch`).
+- 🛡️ **[De-slop-Linkedin](https://github.com/1himanshu1804442/De-slop-Linkedin)**: A browser Chrome extension designed to algorithmically clean up and improve the user experience on the LinkedIn feed, filtering out "slop" content for higher productivity.
 
 ### 🧠 Core Competencies
 - **Data Structures & Algorithms (DSA)**
@@ -35,12 +35,7 @@ I am a 3rd-year CS student specializing in Artificial Intelligence and Machine L
 
 ---
 
-### 📊 GitHub & LeetCode Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1himanshu1804442&show_icons=true&theme=radium" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1himanshu1804442&layout=compact&theme=radium" alt="Top Languages" />
-</p>
-
+### 📊 LeetCode Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/hy180444?theme=dark&font=Inter&ext=activity" alt="LeetCode Stats" />
 </p>
