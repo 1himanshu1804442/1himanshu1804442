@@ -36,15 +36,15 @@ I am a 3rd-year CS student specializing in Artificial Intelligence and Machine L
 
 ### 📊 GitHub & LeetCode Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1himanshu1804442&show_icons=true&theme=radium&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1himanshu1804442&layout=compact&theme=radium&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1himanshu1804442&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1himanshu1804442&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
   <!-- This uses the LeetCard API to dynamically show your LeetCode Knight status and contest rating! -->
-  <img src="https://leetcard.jacoblin.cool/1himanshu1804442?theme=dark&font=Inter&ext=activity" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/hy180444?theme=dark&font=Inter&ext=activity" alt="LeetCode Stats" />
 </div>
 
 ---
