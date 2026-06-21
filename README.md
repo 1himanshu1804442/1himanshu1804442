@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-I am a 3rd-year CS student specializing in Artificial Intelligence and Machine Learning. I am passionate about solving complex logical problems, building intuitive web applications, and exploring how data and machine learning models can solve real-world issues. Currently, I am actively preparing for upcoming software engineering placements and competing in LeetCode contests.
+I am a 3rd-year CS student specializing in Artificial Intelligence and Machine Learning. I am passionate about solving complex logical problems, building intuitive full-stack web applications, and exploring how data and machine learning models can solve real-world issues. Currently, I am actively preparing for upcoming software engineering placements and competing in LeetCode contests.
 </p>
 
 ---
@@ -22,9 +22,10 @@ I am a 3rd-year CS student specializing in Artificial Intelligence and Machine L
 </p>
 
 ### 🚀 Featured Projects
-- 🛡️ **De-slop-Linkedin (Chrome Extension)**: A browser extension designed to clean up and improve the user experience on the LinkedIn feed. *(Added from our current workspace!)*
-- 🌤️ **Real-Time Weather Application**: A dynamic, responsive web application using Vanilla JavaScript, HTML, and CSS. Integrates the OpenWeatherMap API using modern async JavaScript (`async` / `await`, `fetch`).
-- 📈 **Predictive Analysis Models**: Exploring machine learning models for healthcare datasets, focusing on predictive analysis.
+
+- 💪 **[FitTrack AI](https://github.com/1himanshu1804442/fittrack-ai-frontend)**: A full-stack AI-powered fitness tracking platform. Built with a decoupled architecture featuring a dedicated backend (`fittrack-ai-backend`) and a dynamic frontend (`fittrack-ai-frontend`), utilizing modern web technologies to deliver personalized fitness insights.
+- 🛡️ **[De-slop-Linkedin](https://github.com/1himanshu1804442/De-slop-Linkedin)**: A browser Chrome extension designed to algorithmically clean up and improve the user experience on the LinkedIn feed, filtering out "slop" content for higher productivity.
+- 🌤️ **[Weather Insight App](https://github.com/1himanshu1804442/weather-insight-app)**: A dynamic, responsive web application utilizing Vanilla JavaScript, HTML, and CSS. Integrates the OpenWeatherMap API using modern asynchronous JavaScript (`async` / `await`, `fetch`).
 
 ### 🧠 Core Competencies
 - **Data Structures & Algorithms (DSA)**
@@ -35,17 +36,14 @@ I am a 3rd-year CS student specializing in Artificial Intelligence and Machine L
 ---
 
 ### 📊 GitHub & LeetCode Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1himanshu1804442&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1himanshu1804442&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=1himanshu1804442&show_icons=true&theme=radium" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1himanshu1804442&layout=compact&theme=radium" alt="Top Languages" />
+</p>
 
-<br>
-
-<div align="center">
-  <!-- This uses the LeetCard API to dynamically show your LeetCode Knight status and contest rating! -->
+<p align="center">
   <img src="https://leetcard.jacoblin.cool/hy180444?theme=dark&font=Inter&ext=activity" alt="LeetCode Stats" />
-</div>
+</p>
 
 ---
 <p align="center">
