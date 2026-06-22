@@ -1,48 +1,84 @@
-<h1 align="center">Hi there, I'm Himanshu Yadav 👋</h1>
-<h3 align="center">Computer Science & AIML Student | Aspiring Software Engineer | LeetCode Knight ⚔️</h3>
+# Hi there, I'm Himanshu Yadav 👋 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=1himanshu1804442&label=Profile%20views&color=0e75b6&style=flat" alt="1himanshu1804442" />
-</p>
-
-<p align="center">
-I am a 3rd-year CS student specializing in Artificial Intelligence and Machine Learning. I am passionate about solving complex logical problems, building intuitive full-stack web applications, and exploring how data and machine learning models can solve real-world issues. Currently, I am actively preparing for upcoming software engineering placements and competing in LeetCode contests.
+  <a href="https://linkedin.com/in/himanshu1804"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/1himanshu1804442/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:hy180444@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+### 🧠 About Me
+I am a final-year Computer Science student specializing in **Artificial Intelligence and Machine Learning** at Galgotias. I'm passionate about bridging the gap between robust software engineering (Java, Spring Boot, React) and cutting-edge intelligence (LLMs, MLOps, on-device AI). 
 
-### 🚀 Featured Projects (By Complexity)
+When I'm not building full-stack applications, I spend my time solving algorithmic puzzles on LeetCode.
 
-- 💪 **[FitTrack AI](https://github.com/1himanshu1804442/fittrack-ai-frontend)**: A full-stack AI-powered fitness tracking platform. Built with a decoupled architecture featuring a dedicated backend (`fittrack-ai-backend`) and a dynamic frontend (`fittrack-ai-frontend`), utilizing modern web technologies to deliver personalized fitness insights.
-- 🌤️ **[Weather Insight App](https://github.com/1himanshu1804442/weather-insight-app)**: A dynamic, responsive web application utilizing Vanilla JavaScript, HTML, and CSS. Integrates the OpenWeatherMap API using modern asynchronous JavaScript (`async` / `await`, `fetch`).
-- 🛡️ **[De-slop-Linkedin](https://github.com/1himanshu1804442/De-slop-Linkedin)**: A browser Chrome extension designed to algorithmically clean up and improve the user experience on the LinkedIn feed, filtering out "slop" content for higher productivity.
-
-### 🧠 Core Competencies
-- **Data Structures & Algorithms (DSA)**
-- **Object-Oriented Programming (OOP)**
-- **Machine Learning & Predictive Analysis**
-- **System Design & REST APIs**
+* ⚔️ **LeetCode Knight** (Top 5.69% globally, 430+ problems solved)
+* 🚀 Building AI integrations and modular full-stack architectures.
+* 🎓 Galgotias University | B.Tech CSE (AI & ML)
 
 ---
 
-### 📊 LeetCode Stats
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/hy180444?theme=dark&font=Inter&ext=activity" alt="LeetCode Stats" />
-</p>
+### 🛠️ Tech Stack & Skills
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h4>💻 Languages & Frameworks</h4>
+      <ul>
+        <li>Java / Spring Boot</li>
+        <li>JavaScript / React.js / Node.js</li>
+        <li>Python / PyTorch</li>
+        <li>SQL (MySQL, PostgreSQL)</li>
+      </ul>
+    </td>
+    <td valign="top" width="33%">
+      <h4>🧠 AI & Machine Learning</h4>
+      <ul>
+        <li>Gemini API & Chrome On-Device AI (Gemini Nano)</li>
+        <li>LLM Prompting & Retrieval-Augmented Generation (RAG)</li>
+        <li>Scikit-Learn / Pandas / NumPy</li>
+        <li>Model Serving (FastAPI)</li>
+      </ul>
+    </td>
+    <td valign="top" width="33%">
+      <h4>⚙️ MLOps & Developer Tools</h4>
+      <ul>
+        <li>Git / GitHub Actions</li>
+        <li>Docker / Containerization</li>
+        <li>Postman / REST APIs</li>
+        <li>Linux / Bash</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
+
+### 🚀 Featured Projects
+
+#### 🛡️ [De-slop-Linkedin](https://github.com/1himanshu1804442/De-slop-Linkedin)
+An AI-powered Chrome Extension that dynamically cleans up and rewrites LinkedIn feed posts into custom, productive personas.
+* **Tech:** JavaScript, Chrome Extension APIs, Gemini API, Gemini Nano (Local Fallback)
+* **Highlights:** Implemented intelligent local-first inference using Google Chrome's built-in AI API with dynamic cloud failovers.
+
+#### 💪 [FitTrack AI](https://github.com/1himanshu1804442/fittrack-ai-frontend)
+A full-stack fitness tracking application providing personalized workouts and progress predictions.
+* **Tech:** React, Spring Boot, PostgreSQL, Java, REST APIs
+* **Highlights:** Decoupled frontend/backend architecture featuring secure JWT authentication and responsive metrics display.
+
+#### ⚔️ [LeetCode Solutions](https://github.com/1himanshu1804442/leetcode-solutions)
+A curated collection of over 430 coding solutions in Java, documenting my journey to earning the **LeetCode Knight** badge.
+* **Tech:** Java, Data Structures, Algorithms
+
+---
+
+### 📊 GitHub Stats & Badges
+
 <p align="center">
-  <a href="https://linkedin.com/in/himanshu1804">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=1himanshu1804442&show_icons=true&theme=nord&count_private=true" alt="Himanshu's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1himanshu1804442&layout=compact&theme=nord" alt="Top Languages" />
 </p>
