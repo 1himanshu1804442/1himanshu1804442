@@ -15,7 +15,7 @@ When I'm not building full-stack applications, I spend my time solving algorithm
 
 * ⚔️ **LeetCode Knight** (Top 5.69% globally, 430+ problems solved)
 * 🚀 Building AI integrations and modular full-stack architectures.
-* 🎓 Galgotias University | B.Tech CSE (AI & ML)
+* 🎓 Galgotias College | B.Tech CSE (AI & ML)
 
 ---
 
