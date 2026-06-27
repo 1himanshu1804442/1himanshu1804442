@@ -1,84 +1,84 @@
-# Hi there, I'm Himanshu Yadav 👋 
+<!-- Header Section -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi,+I'm+Himanshu+Yadav+👋;AI+%26+ML+Specialist;Full-Stack+Software+Engineer;LeetCode+Knight+⚔️;Passionate+Problem+Solver" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/himanshu1804" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/hy180444/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="mailto:hy180444@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=1himanshu1804442&style=flat-square&color=007ec6&label=Profile+Views" alt="Profile Views" />
 </p>
 
----
+<p align="center">
+  <a href="https://linkedin.com/in/himanshu1804" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/hy180444/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:hy180444@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-### 🧠 About Me
-I am a final-year Computer Science student specializing in **Artificial Intelligence and Machine Learning** at Galgotias. I'm passionate about bridging the gap between robust software engineering (Java, Spring Boot, React) and cutting-edge intelligence (LLMs, MLOps, on-device AI). 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%" />
 
-When I'm not building full-stack applications, I spend my time solving algorithmic puzzles on LeetCode.
+### 🚀 About Me
 
-* ⚔️ **LeetCode Knight** (Top 5.69% globally, 430+ problems solved)
-* 🚀 Building AI integrations and modular full-stack architectures.
-* 🎓 Galgotias College | B.Tech CSE (AI & ML)
+I am a final-year **Computer Science** student specializing in **Artificial Intelligence and Machine Learning** at Galgotias University. I'm deeply passionate about bridging the gap between robust software engineering and cutting-edge intelligence (LLMs, MLOps, on-device AI).
 
----
+- 🎓 **Education:** B.Tech CSE (AI & ML) @ Galgotias University
+- ⚔️ **Competitive Programming:** LeetCode Knight (Top 5.69% globally, 430+ problems solved)
+- 💡 **Focus:** Modular Full-Stack Architectures, AI Integrations, System Design
+- 🤝 **Collaboration:** Always open to collaborate on open-source AI tools and scalable web apps!
 
-### 🛠️ Tech Stack & Skills
+<br/>
 
-<table>
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,js,react,nodejs,python,pytorch,mysql,postgres,docker,git,linux,postman,bash&perline=7" alt="Tech Stack" />
+  </a>
+</p>
+
+<br/>
+
+### 🌟 Featured Projects
+
+<table width="100%">
   <tr>
-    <td valign="top" width="33%">
-      <h4>💻 Languages & Frameworks</h4>
-      <ul>
-        <li>Java / Spring Boot</li>
-        <li>JavaScript / React.js / Node.js</li>
-        <li>Python / PyTorch</li>
-        <li>SQL (MySQL, PostgreSQL)</li>
-      </ul>
+    <td width="33%" valign="top">
+      <h3 align="center">🛡️ De-slop-Linkedin</h3>
+      <p>An AI-powered Chrome Extension that cleans up and rewrites LinkedIn feed posts into custom personas using local Gemini Nano AI.</p>
+      <p><strong>Tech:</strong> JavaScript, Chrome APIs, Gemini AI</p>
+      <p align="center"><a href="https://github.com/1himanshu1804442/De-slop-Linkedin"><strong>Explore Project »</strong></a></p>
     </td>
-    <td valign="top" width="33%">
-      <h4>🧠 AI & Machine Learning</h4>
-      <ul>
-        <li>Gemini API & Chrome On-Device AI (Gemini Nano)</li>
-        <li>LLM Prompting & Retrieval-Augmented Generation (RAG)</li>
-        <li>Scikit-Learn / Pandas / NumPy</li>
-        <li>Model Serving (FastAPI)</li>
-      </ul>
+    <td width="33%" valign="top">
+      <h3 align="center">💪 FitTrack AI</h3>
+      <p>A full-stack fitness tracking application providing personalized workouts and progress predictions with secure JWT auth.</p>
+      <p><strong>Tech:</strong> React, Spring Boot, PostgreSQL</p>
+      <p align="center"><a href="https://github.com/1himanshu1804442/fittrack-ai-frontend"><strong>Explore Project »</strong></a></p>
     </td>
-    <td valign="top" width="33%">
-      <h4>⚙️ MLOps & Developer Tools</h4>
-      <ul>
-        <li>Git / GitHub Actions</li>
-        <li>Docker / Containerization</li>
-        <li>Postman / REST APIs</li>
-        <li>Linux / Bash</li>
-      </ul>
+    <td width="33%" valign="top">
+      <h3 align="center">⚔️ LeetCode Solutions</h3>
+      <p>A curated collection of over 430 coding solutions in Java, documenting my journey to earning the LeetCode Knight badge.</p>
+      <p><strong>Tech:</strong> Java, Data Structures, Algorithms</p>
+      <p align="center"><a href="https://github.com/1himanshu1804442/leetcode-solutions"><strong>Explore Project »</strong></a></p>
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-### 🚀 Featured Projects
-
-#### 🛡️ [De-slop-Linkedin](https://github.com/1himanshu1804442/De-slop-Linkedin)
-An AI-powered Chrome Extension that dynamically cleans up and rewrites LinkedIn feed posts into custom, productive personas.
-* **Tech:** JavaScript, Chrome Extension APIs, Gemini API, Gemini Nano (Local Fallback)
-* **Highlights:** Implemented intelligent local-first inference using Google Chrome's built-in AI API with dynamic cloud failovers.
-
-#### 💪 [FitTrack AI](https://github.com/1himanshu1804442/fittrack-ai-frontend)
-A full-stack fitness tracking application providing personalized workouts and progress predictions.
-* **Tech:** React, Spring Boot, PostgreSQL, Java, REST APIs
-* **Highlights:** Decoupled frontend/backend architecture featuring secure JWT authentication and responsive metrics display.
-
-#### ⚔️ [LeetCode Solutions](https://github.com/1himanshu1804442/leetcode-solutions)
-A curated collection of over 430 coding solutions in Java, documenting my journey to earning the **LeetCode Knight** badge.
-* **Tech:** Java, Data Structures, Algorithms
-
----
-
-### 📊 GitHub Stats & Badges
+### 📈 GitHub & LeetCode Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1himanshu1804442&show_icons=true&theme=nord&count_private=true" alt="Himanshu's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1himanshu1804442&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1himanshu1804442&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1himanshu1804442&layout=compact&theme=nord" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1himanshu1804442&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="49%" />
+  <img src="https://leetcard.jacoblin.cool/hy180444?theme=dark&font=Inter&ext=activity" alt="LeetCode Stats" width="49%" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
