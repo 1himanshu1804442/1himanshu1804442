@@ -1,9 +1,9 @@
 # Hi there, I'm Himanshu Yadav 👋 
 
 <p align="center">
-  <a href="https://linkedin.com/in/himanshu1804"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/hy180444/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="mailto:hy180444@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/himanshu1804" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/hy180444/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="mailto:hy180444@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
