@@ -72,12 +72,12 @@ I am a final-year **Computer Science** student specializing in **Artificial Inte
 ### 📈 GitHub & LeetCode Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1himanshu1804442&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=1himanshu1804442&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=1himanshu1804442&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1himanshu1804442&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=1himanshu1804442&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="49%" />
   <img src="https://leetcard.jacoblin.cool/hy180444?theme=dark&font=Inter&ext=activity" alt="LeetCode Stats" width="49%" />
 </p>
 
